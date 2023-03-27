@@ -1,7 +1,9 @@
-name: Python CI
+ame: NodeJs CI
 
 on:
   push:
+    branches: [ "master" ]
+  pull_request:
     branches: [ "master" ]
 
 jobs:
