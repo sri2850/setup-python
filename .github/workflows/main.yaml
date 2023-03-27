@@ -1,4 +1,4 @@
-ame: NodeJs CI
+name: NodeJs CI
 
 on:
   push:
